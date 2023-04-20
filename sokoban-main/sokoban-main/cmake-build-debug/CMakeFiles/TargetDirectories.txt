@@ -1,3 +1,0 @@
-C:/study/cpp/sokoban-main/sokoban-main/cmake-build-debug/CMakeFiles/Sokoban.dir
-C:/study/cpp/sokoban-main/sokoban-main/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/study/cpp/sokoban-main/sokoban-main/cmake-build-debug/CMakeFiles/rebuild_cache.dir
